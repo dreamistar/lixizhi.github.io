@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Github에 코드 넣기
-categories: Github 초짜 탈출기
+title: "Github에 코드 넣기"
+categories: "Github 초짜 탈출기"
 ---
 
 ### Github에 코드를 넣어보자 
