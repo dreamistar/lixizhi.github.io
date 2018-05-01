@@ -2,7 +2,5 @@
 layout: frontpage
 ---
 
-## Welcome to my website
-
-This is the place where I share my ideas on topics like [Paracraft](http://www.paracraft.cn) software design, artificial intelligence and education. 
-Feel free to send me emails or join our team. 
+## 기햄의 공부 저장소
+내가 공부한 것을 정리하고 저장하기 위한 블로그 
